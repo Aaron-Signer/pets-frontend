@@ -1,0 +1,10 @@
+.general-image:hover {
+    width: 450px;
+
+}
+
+.general-image {
+    margin: 10px;
+    box-shadow: 3px 3px 10px black;
+    transition: width 0.3s ease-in-out;
+}
