@@ -1,0 +1,1 @@
+add a collections sytem where people can selct photos and add them to a collection, which can be viewed seperatley

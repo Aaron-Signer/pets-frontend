@@ -1,48 +1,2892 @@
-
 {
-    "1": {
+    "3e18a846-f1df-4b0e-9379-fd2ca2615b6e": {
+        "fileName": "20180616_135024.jpg",
+        "urlPath": "images/atlas/20180616_135024.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "e3d02c0f-58ad-4637-8515-555e838e05af": {
+        "fileName": "20180616_135027.jpg",
+        "urlPath": "images/atlas/20180616_135027.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "76c9847b-e351-467f-94b9-84e998495da9": {
+        "fileName": "20180616_141625.jpg",
+        "urlPath": "images/atlas/20180616_141625.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "66b6c22a-43a4-402f-997f-2400b25ee393": {
+        "fileName": "20180616_141628.jpg",
+        "urlPath": "images/atlas/20180616_141628.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "514bb389-64de-49af-a382-76c2cbe6ebfe": {
+        "fileName": "20180616_141632.jpg",
+        "urlPath": "images/atlas/20180616_141632.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "3c186a4d-e922-44f8-b149-7e7ea5638db8": {
+        "fileName": "20180616_141650.jpg",
+        "urlPath": "images/atlas/20180616_141650.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "24a24afa-0aaf-4403-b193-bdff57f0c54c": {
+        "fileName": "20180617_152011.jpg",
+        "urlPath": "images/atlas/20180617_152011.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "7f1c7925-0b85-47cd-979f-ffecb9ae2b77": {
+        "fileName": "20180617_152024.jpg",
+        "urlPath": "images/atlas/20180617_152024.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "ae300636-f8ef-40d7-a67b-fa215c55b31c": {
+        "fileName": "20180617_172737.jpg",
+        "urlPath": "images/atlas/20180617_172737.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "d5159153-10c0-4f83-a142-2484abfe8849": {
+        "fileName": "20180617_172754.jpg",
+        "urlPath": "images/atlas/20180617_172754.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "af01f7d8-b274-4cb6-af9b-eeb54c0fc275": {
+        "fileName": "20180617_172756.jpg",
+        "urlPath": "images/atlas/20180617_172756.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "cb1ac3c7-63a0-40de-a302-91789873a28b": {
+        "fileName": "20180617_172801.jpg",
+        "urlPath": "images/atlas/20180617_172801.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "2affd298-05d7-4724-84c1-bbbd431008fd": {
+        "fileName": "20180617_172802.jpg",
+        "urlPath": "images/atlas/20180617_172802.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "ae218873-f3e6-4927-afb2-e147c8f754f1": {
+        "fileName": "20180617_172806.jpg",
+        "urlPath": "images/atlas/20180617_172806.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "ab65a188-81f4-4514-b052-56afdf7164cf": {
+        "fileName": "20180617_191820.jpg",
+        "urlPath": "images/atlas/20180617_191820.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "6474ce50-5573-4603-89c8-22ee84200451": {
+        "fileName": "20180617_191824.jpg",
+        "urlPath": "images/atlas/20180617_191824.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "9b2aca61-cd60-4fa5-bf58-df399941e68e": {
+        "fileName": "20180630_001600.jpg",
+        "urlPath": "images/atlas/20180630_001600.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "1fda6eb6-b919-4ba6-9245-479c7b7c46c5": {
+        "fileName": "20180630_001605.jpg",
+        "urlPath": "images/atlas/20180630_001605.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "944fae3f-a4c9-4392-89f2-85a2a1a1950a": {
+        "fileName": "20180630_001607.jpg",
+        "urlPath": "images/atlas/20180630_001607.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "9b0fdcb5-c3ef-4be3-a6f3-475bd19c2bc3": {
+        "fileName": "20180630_001609.jpg",
+        "urlPath": "images/atlas/20180630_001609.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:46-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "8e7a73d3-eac3-4aef-9a8e-3323546e0f4d": {
+        "fileName": "20180630_140004.jpg",
+        "urlPath": "images/atlas/20180630_140004.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "47341327-ea11-4ca1-986b-fc6e54741567": {
+        "fileName": "20180630_140006.jpg",
+        "urlPath": "images/atlas/20180630_140006.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "43d770a8-b04b-4fe6-b6ca-12a65ce75457": {
+        "fileName": "20180701_150428.jpg",
+        "urlPath": "images/atlas/20180701_150428.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "cbb0f84a-f558-465e-989c-43a61a07ca7d": {
+        "fileName": "20180701_155255.jpg",
+        "urlPath": "images/atlas/20180701_155255.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "bb8b0dcb-94a7-43ba-bb5d-5dab359e0509": {
+        "fileName": "20180701_155257.jpg",
+        "urlPath": "images/atlas/20180701_155257.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "f19154d6-fcd3-465f-987c-43aedc4bda8d": {
+        "fileName": "20180701_182520.jpg",
+        "urlPath": "images/atlas/20180701_182520.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "78c94118-6389-4ab6-84d8-ed5214903e9b": {
+        "fileName": "20180701_182524.jpg",
+        "urlPath": "images/atlas/20180701_182524.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "d9ef3261-14b7-436b-8370-31bb7c69db86": {
+        "fileName": "20180701_182525.jpg",
+        "urlPath": "images/atlas/20180701_182525.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "f7f67026-1646-45f6-b978-2ce3267b172e": {
+        "fileName": "20180701_182654.jpg",
+        "urlPath": "images/atlas/20180701_182654.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "85690ddc-4648-4bd9-b35e-b37960a4308a": {
+        "fileName": "20180701_182657.jpg",
+        "urlPath": "images/atlas/20180701_182657.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "d148008a-4f43-4543-bdc5-2e5f7cf450d7": {
+        "fileName": "20180701_182700.jpg",
+        "urlPath": "images/atlas/20180701_182700.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "b22bd6cc-ef33-4a02-85bb-7d5b04150bb7": {
+        "fileName": "20180701_182703.jpg",
+        "urlPath": "images/atlas/20180701_182703.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "ffce7a9c-09c8-41d0-8f55-906bcf4c36a3": {
+        "fileName": "20180701_182706.jpg",
+        "urlPath": "images/atlas/20180701_182706.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "92f2ea94-1a70-4229-95b4-101077ccf374": {
+        "fileName": "20180701_182709.jpg",
+        "urlPath": "images/atlas/20180701_182709.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "ed289d74-4be6-4f16-9287-9338d540a984": {
+        "fileName": "20180701_184608.jpg",
+        "urlPath": "images/atlas/20180701_184608.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "3529ac29-9a3a-405e-b133-9a517ffc3d5d": {
+        "fileName": "20180701_184610.jpg",
+        "urlPath": "images/atlas/20180701_184610.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "cf944aa2-b2d5-4a9b-9b1c-c4c9476f7118": {
+        "fileName": "20180701_185036.jpg",
+        "urlPath": "images/atlas/20180701_185036.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "7eb2e81d-34d8-4e8b-ac41-d1cd4e900c8f": {
+        "fileName": "20180701_185038.jpg",
+        "urlPath": "images/atlas/20180701_185038.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "cd2f724a-ccd6-476c-984c-850108275681": {
+        "fileName": "20180701_185042.jpg",
+        "urlPath": "images/atlas/20180701_185042.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "9eaac80b-7361-449a-b74f-56154abe56b4": {
+        "fileName": "20180701_185125.jpg",
+        "urlPath": "images/atlas/20180701_185125.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "6dd1e770-7800-4347-98cc-0dda5b4f008e": {
+        "fileName": "20180701_185131.jpg",
+        "urlPath": "images/atlas/20180701_185131.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "beffd10f-39e0-4dd6-8f45-23a2e448cc86": {
+        "fileName": "20180701_185138.jpg",
+        "urlPath": "images/atlas/20180701_185138.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "3fc1538f-4e4c-4e6d-bb8c-b3f25dcbfb7e": {
+        "fileName": "20180701_185204.jpg",
+        "urlPath": "images/atlas/20180701_185204.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "32744159-44d5-4406-a474-28466c2a35a8": {
+        "fileName": "20180701_185537.jpg",
+        "urlPath": "images/atlas/20180701_185537.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "3ea50fc0-2521-4688-9101-ac72a1d4b50c": {
+        "fileName": "20180701_185541.jpg",
+        "urlPath": "images/atlas/20180701_185541.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "4be230f5-ad71-42d9-a86e-fc1ac2bd4e87": {
+        "fileName": "20180701_185542.jpg",
+        "urlPath": "images/atlas/20180701_185542.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "41b4fb08-e060-406c-bdcf-4cf4c4a25e10": {
+        "fileName": "20180701_185543.jpg",
+        "urlPath": "images/atlas/20180701_185543.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "48bf3f45-cccb-44a4-a95f-ec88867eeb65": {
+        "fileName": "20180701_185546.jpg",
+        "urlPath": "images/atlas/20180701_185546.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "7fdae360-3cf1-4417-9d61-77f4a62aab1e": {
+        "fileName": "20180701_191508.jpg",
+        "urlPath": "images/atlas/20180701_191508.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "b66f78dc-0fe3-446f-992b-15b7dd3d0d59": {
+        "fileName": "20180701_191513.jpg",
+        "urlPath": "images/atlas/20180701_191513.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "48abbdc3-b76f-4a2f-9dac-203992f7a76a": {
+        "fileName": "20180701_191515.jpg",
+        "urlPath": "images/atlas/20180701_191515.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "52d0f9cf-700d-488c-bfb5-d28604bf7696": {
+        "fileName": "20180701_191516.jpg",
+        "urlPath": "images/atlas/20180701_191516.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "b98f6dc9-8ab7-40cd-b8c3-eb936842743d": {
+        "fileName": "20180720_214212.jpg",
+        "urlPath": "images/atlas/20180720_214212.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "674160b4-c813-4459-8c83-4ff447195eb3": {
+        "fileName": "20180720_214218.jpg",
+        "urlPath": "images/atlas/20180720_214218.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "3fccb37b-701e-4be8-b8b4-b47290df79ca": {
+        "fileName": "20180720_214222.jpg",
+        "urlPath": "images/atlas/20180720_214222.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "62968de8-072f-45b0-8b2c-4fcc87ccfa9b": {
+        "fileName": "20180720_214228.jpg",
+        "urlPath": "images/atlas/20180720_214228.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:47-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "d94e3975-f4df-4df4-8dee-b62dde45580a": {
+        "fileName": "20180722_014432.jpg",
+        "urlPath": "images/atlas/20180722_014432.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "c2e3a589-eb97-4e6b-b8f3-e3b630a3cecb": {
+        "fileName": "20180722_173726.jpg",
+        "urlPath": "images/atlas/20180722_173726.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "aedbe6a6-53e3-414c-86d6-a0219f279afe": {
+        "fileName": "20180722_173727.jpg",
+        "urlPath": "images/atlas/20180722_173727.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "86cd7c2c-e6eb-4ab4-9097-9891fd45d27b": {
+        "fileName": "20180722_173730.jpg",
+        "urlPath": "images/atlas/20180722_173730.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "174d0368-9fc9-4f0b-8124-01e576775a75": {
+        "fileName": "20180722_173732.jpg",
+        "urlPath": "images/atlas/20180722_173732.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "8921e8fe-ad7f-4d76-94eb-4ff66f70e1cd": {
+        "fileName": "20180722_173736.jpg",
+        "urlPath": "images/atlas/20180722_173736.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "a37a3e79-65df-4900-8db4-b46d0b17fce2": {
+        "fileName": "20180819_175900.jpg",
+        "urlPath": "images/atlas/20180819_175900.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "190fb94b-edb4-4365-a8f1-2a56bc47adcb": {
+        "fileName": "20180819_175903.jpg",
+        "urlPath": "images/atlas/20180819_175903.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "5d041e79-bd67-4592-b8d0-529946a589c7": {
+        "fileName": "20180819_175908.jpg",
+        "urlPath": "images/atlas/20180819_175908.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "6bc0f3bf-5605-486f-856d-16d8160bad37": {
+        "fileName": "20180820_080626.jpg",
+        "urlPath": "images/atlas/20180820_080626.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "22691002-b3b8-4b24-bac5-7bf19563ccca": {
+        "fileName": "20180820_080629.jpg",
+        "urlPath": "images/atlas/20180820_080629.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "ae79886f-14dc-4004-b324-2915494a08e0": {
+        "fileName": "20180912_095251.jpg",
+        "urlPath": "images/atlas/20180912_095251.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "9275b845-8a71-4e89-9b45-e49f0e2433bb": {
+        "fileName": "20180912_095254.jpg",
+        "urlPath": "images/atlas/20180912_095254.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "cf680ad1-3d3d-489a-8d99-963dc299e061": {
+        "fileName": "20180912_095255.jpg",
+        "urlPath": "images/atlas/20180912_095255.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "f7614620-ba3e-4e1d-8c44-c9c62a87c492": {
+        "fileName": "20181002_190000.jpg",
+        "urlPath": "images/atlas/20181002_190000.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "2af0d37f-7b7a-4e25-abe8-4a3d84f91ec0": {
+        "fileName": "20181002_190001.jpg",
+        "urlPath": "images/atlas/20181002_190001.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "74ac0699-16b9-4548-b132-90a396377bdc": {
+        "fileName": "20181002_190003.jpg",
+        "urlPath": "images/atlas/20181002_190003.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "3d272110-1fdb-408e-bbb0-1c8032f2e4c6": {
+        "fileName": "20181002_190005.jpg",
+        "urlPath": "images/atlas/20181002_190005.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "d2d4be21-09e3-4069-83fa-75e2f0468fc0": {
+        "fileName": "20181002_190009.jpg",
+        "urlPath": "images/atlas/20181002_190009.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "364cb82a-5327-4db6-95e9-d07e47c6f65d": {
+        "fileName": "20181002_190011.jpg",
+        "urlPath": "images/atlas/20181002_190011.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "f1886c0b-986a-4e02-87a8-6fb826e36d65": {
+        "fileName": "20181003_223033.jpg",
+        "urlPath": "images/atlas/20181003_223033.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "f005e479-3394-49d1-b1d3-f86a99a5227f": {
+        "fileName": "20181116_212434.jpg",
+        "urlPath": "images/atlas/20181116_212434.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "ac91ea36-8ad2-462a-b871-3aeac239350e": {
+        "fileName": "20181116_212436.jpg",
+        "urlPath": "images/atlas/20181116_212436.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "47ad0dc8-953b-4961-a963-9e4d50dbfa07": {
+        "fileName": "20181120_004420.jpg",
+        "urlPath": "images/atlas/20181120_004420.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "19dacf81-a137-42fd-add2-8adf9a7a7e37": {
+        "fileName": "20181120_004433.jpg",
+        "urlPath": "images/atlas/20181120_004433.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "d4630781-8590-4741-b816-ee2433649d59": {
+        "fileName": "20181120_004440.jpg",
+        "urlPath": "images/atlas/20181120_004440.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "c350600b-adaa-411f-b467-d328491dac43": {
+        "fileName": "20181120_004446.jpg",
+        "urlPath": "images/atlas/20181120_004446.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "be23e905-f3d8-4428-a986-8654eff8e060": {
+        "fileName": "20181120_004744.jpg",
+        "urlPath": "images/atlas/20181120_004744.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "ff2eb0d8-30a5-4681-92bc-a8f3782b190c": {
+        "fileName": "20181120_004753.jpg",
+        "urlPath": "images/atlas/20181120_004753.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "4f3cfa04-ad41-4955-ba0e-e5aaa7ddd372": {
+        "fileName": "20181120_004800.jpg",
+        "urlPath": "images/atlas/20181120_004800.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "866849f7-0dfc-4a2f-ae73-3b4f7c954db3": {
+        "fileName": "20181120_004804.jpg",
+        "urlPath": "images/atlas/20181120_004804.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "e947753b-9e00-4935-9bae-0ccb7cd085eb": {
+        "fileName": "20181211_014805.jpg",
+        "urlPath": "images/atlas/20181211_014805.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:48-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "efb63a2f-2a73-4371-aeb4-85e1cf4bcf84": {
+        "fileName": "20181214_121722.jpg",
+        "urlPath": "images/atlas/20181214_121722.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "0f97acbe-67fd-4db7-98da-2d237f00b411": {
+        "fileName": "20181214_215256.jpg",
+        "urlPath": "images/atlas/20181214_215256.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "04e2a33d-d8ef-4df0-8fbe-e253e8266b46": {
+        "fileName": "20181216_205307.jpg",
+        "urlPath": "images/atlas/20181216_205307.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "aae7bfdb-d614-4bd2-a087-4c72abd460cf": {
+        "fileName": "20181216_205310.jpg",
+        "urlPath": "images/atlas/20181216_205310.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "c8c53be0-ea84-46c5-9931-f7d0eb8b3a7e": {
+        "fileName": "20181216_205311.jpg",
+        "urlPath": "images/atlas/20181216_205311.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "045fb113-ad64-4236-9798-7e351a697e3d": {
+        "fileName": "20181220_174830.jpg",
+        "urlPath": "images/atlas/20181220_174830.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "b09e7be8-d7cd-45e8-bc50-f63f5723a7fa": {
+        "fileName": "20181220_221733.jpg",
+        "urlPath": "images/atlas/20181220_221733.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "e7ab6511-f096-4dcf-8303-f13a30908252": {
+        "fileName": "20181225_214928.jpg",
+        "urlPath": "images/atlas/20181225_214928.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "5cd115fb-fb79-48aa-87ae-4e11aa3d72fd": {
+        "fileName": "20181225_214931.jpg",
+        "urlPath": "images/atlas/20181225_214931.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "13146941-01e5-40c9-b653-e580f0c097bd": {
+        "fileName": "20181225_214935.jpg",
+        "urlPath": "images/atlas/20181225_214935.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "a8aca2c6-f458-4510-8a96-599260d0f49f": {
+        "fileName": "20181226_204105.jpg",
+        "urlPath": "images/atlas/20181226_204105.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "ef61c027-8c4d-4558-9a10-b88fbf05f2cd": {
+        "fileName": "20181226_204115.jpg",
+        "urlPath": "images/atlas/20181226_204115.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "a67e7145-eb7a-405f-90f2-936bd9493f2e": {
+        "fileName": "20181230_220442.jpg",
+        "urlPath": "images/atlas/20181230_220442.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "4f2a46c5-9f72-49f5-b262-29d2246aaff8": {
+        "fileName": "20181230_220446.jpg",
+        "urlPath": "images/atlas/20181230_220446.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "391419b9-94f9-4b5b-a821-5f36b94663f3": {
+        "fileName": "20181230_220657.jpg",
+        "urlPath": "images/atlas/20181230_220657.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "93dfa3cd-66dc-4117-b17e-9d5b862a4d2c": {
+        "fileName": "20181230_220701.jpg",
+        "urlPath": "images/atlas/20181230_220701.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "6e72c78a-1514-4b40-84ff-96463907b3d9": {
+        "fileName": "20181231_131241.jpg",
+        "urlPath": "images/atlas/20181231_131241.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "4596e007-b607-41da-8fa0-e698e0691323": {
+        "fileName": "20190104_155814.jpg",
+        "urlPath": "images/atlas/20190104_155814.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "237ded52-0d55-40f9-8adc-84aa7a0d123c": {
+        "fileName": "20190104_190335.jpg",
+        "urlPath": "images/atlas/20190104_190335.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "361da018-d8be-4176-88af-dd37fbdd02d5": {
+        "fileName": "20190128_211445.jpg",
+        "urlPath": "images/atlas/20190128_211445.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "a821bbfe-f57a-4be1-8fc6-065a6f628c80": {
+        "fileName": "20190128_211452.jpg",
+        "urlPath": "images/atlas/20190128_211452.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "59fa9d1a-2221-4318-9951-8bad2504eaec": {
+        "fileName": "20190128_211457.jpg",
+        "urlPath": "images/atlas/20190128_211457.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "0c9238af-eea7-44a0-a9bc-f4d406a071a1": {
+        "fileName": "20190412_171212.jpg",
+        "urlPath": "images/atlas/20190412_171212.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "8e0c5df8-6361-43ec-adcc-a3832017d329": {
+        "fileName": "20190413_154857.jpg",
+        "urlPath": "images/atlas/20190413_154857.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "edabf264-c120-48ae-9103-9a49cd188e43": {
+        "fileName": "20190418_023207.jpg",
+        "urlPath": "images/atlas/20190418_023207.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "efa0d987-9536-4872-88fe-ea79c4302bb4": {
+        "fileName": "20190418_023209.jpg",
+        "urlPath": "images/atlas/20190418_023209.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "f27542e7-86e4-458f-a31a-cbe1c101cb61": {
+        "fileName": "20190421_224614.jpg",
+        "urlPath": "images/atlas/20190421_224614.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "0d89bcb9-afc6-4a66-b4fa-bbe343c11949": {
+        "fileName": "20190421_224615.jpg",
+        "urlPath": "images/atlas/20190421_224615.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "82d7e4c3-7f56-4fda-a7f0-73913de0603c": {
+        "fileName": "20190422_150614.jpg",
+        "urlPath": "images/atlas/20190422_150614.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "60b49c4f-4c04-4c14-bc6e-cc1bcd85ecde": {
+        "fileName": "20190515_235941.jpg",
+        "urlPath": "images/atlas/20190515_235941.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "21066baf-129f-42a1-9a48-73ecdad6f8d8": {
+        "fileName": "20190515_235946.jpg",
+        "urlPath": "images/atlas/20190515_235946.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "1fe6f3fa-bd3e-47f9-bf1b-2731141617df": {
+        "fileName": "20190516_000000.jpg",
+        "urlPath": "images/atlas/20190516_000000.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "473cace1-df7f-45fa-943a-a2ccb2697ce0": {
+        "fileName": "20190516_000003.jpg",
+        "urlPath": "images/atlas/20190516_000003.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:49-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "aa1a0bda-d2f4-4440-9fe1-acb0db434278": {
+        "fileName": "20190516_000006.jpg",
+        "urlPath": "images/atlas/20190516_000006.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "5644512c-3862-49ab-8db6-5e62716ea90a": {
+        "fileName": "20190516_000010.jpg",
+        "urlPath": "images/atlas/20190516_000010.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "938d915d-c8f2-4fa0-a5cf-14dd98645179": {
+        "fileName": "20190610_153749.jpg",
+        "urlPath": "images/atlas/20190610_153749.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "72b39ac0-61df-4286-ab8e-feb84c87d311": {
+        "fileName": "20190612_165346.jpg",
+        "urlPath": "images/atlas/20190612_165346.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "09549019-2cca-45bf-8e11-38c0613d6387": {
+        "fileName": "20190729_150402.jpg",
+        "urlPath": "images/atlas/20190729_150402.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "e3f3a8ab-b51d-40e1-b775-ad2d58226672": {
+        "fileName": "20190729_150413.jpg",
+        "urlPath": "images/atlas/20190729_150413.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "30d5960e-5945-42b1-b6b3-04a78bd6767b": {
+        "fileName": "20190729_150417.jpg",
+        "urlPath": "images/atlas/20190729_150417.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "5738ed28-5499-4b0f-8c94-9b54e5fa649e": {
+        "fileName": "20190729_150425.jpg",
+        "urlPath": "images/atlas/20190729_150425.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "8931005c-cdd5-4296-ac0c-4f9295243f27": {
+        "fileName": "20190729_223009.jpg",
+        "urlPath": "images/atlas/20190729_223009.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "560333be-1921-4b69-bf29-e2a431412188": {
+        "fileName": "20190911_223022.jpg",
+        "urlPath": "images/atlas/20190911_223022.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "f4849869-a52b-4709-908e-b7b7320b1ac1": {
+        "fileName": "20190911_223026.jpg",
+        "urlPath": "images/atlas/20190911_223026.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "d092c5d7-516b-469a-88c0-8536333f4cc0": {
+        "fileName": "20190911_223033.jpg",
+        "urlPath": "images/atlas/20190911_223033.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "15ec37e8-a835-463a-a788-f0d38a4342ff": {
+        "fileName": "20190911_223034.jpg",
+        "urlPath": "images/atlas/20190911_223034.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "1d1269ff-1eb5-49f9-a455-dffafdfe32d0": {
+        "fileName": "20191104_130020.jpg",
+        "urlPath": "images/atlas/20191104_130020.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "138b43a9-2ece-4cf2-9658-6274ee922649": {
+        "fileName": "20191104_130025.jpg",
+        "urlPath": "images/atlas/20191104_130025.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "9643c451-9045-418d-aabe-fd18bb67f488": {
+        "fileName": "20191105_231126.jpg",
+        "urlPath": "images/atlas/20191105_231126.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "29e21627-ccd6-445b-bcf2-183f194c5ae0": {
+        "fileName": "20191215_231142.jpg",
+        "urlPath": "images/atlas/20191215_231142.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "05132b21-3d67-4ff0-a7ba-833ae82ed165": {
+        "fileName": "20191215_231148.jpg",
+        "urlPath": "images/atlas/20191215_231148.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "cb84b460-8894-49a4-abf8-9d3da44ee428": {
+        "fileName": "20191215_231150.jpg",
+        "urlPath": "images/atlas/20191215_231150.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "4e6d0638-fe88-4c5b-8370-336518e1fd86": {
+        "fileName": "20191228_183708.jpg",
+        "urlPath": "images/atlas/20191228_183708.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "11c8505d-034c-43c2-8a59-2ab6e243154f": {
+        "fileName": "20191228_183712.jpg",
+        "urlPath": "images/atlas/20191228_183712.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "d1c6959f-3fa5-4b1d-86ea-69c986806c16": {
+        "fileName": "20191228_183715.jpg",
+        "urlPath": "images/atlas/20191228_183715.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "884c2b32-2761-4ac0-91b2-35a4c43ccc53": {
+        "fileName": "20191228_183719.jpg",
+        "urlPath": "images/atlas/20191228_183719.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "d4376c6e-2eab-4e39-a7b6-f14e7d3c42c9": {
+        "fileName": "20200118_144158.jpg",
+        "urlPath": "images/atlas/20200118_144158.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "634a2dd2-1835-480d-92c4-5864ee744446": {
+        "fileName": "20200306_083748.jpg",
+        "urlPath": "images/atlas/20200306_083748.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "cbf32c8e-e033-4217-89a0-d996727c4861": {
+        "fileName": "20200306_083752.jpg",
+        "urlPath": "images/atlas/20200306_083752.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "24ab0d9c-e4ea-4447-bc97-ae8e678d0022": {
+        "fileName": "20200312_094432.jpg",
+        "urlPath": "images/atlas/20200312_094432.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "74a0ffbd-e309-4cb6-93ae-20b003502dc0": {
+        "fileName": "20200312_094436.jpg",
+        "urlPath": "images/atlas/20200312_094436.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "90ab4506-4376-486d-87ea-610203cabb9a": {
+        "fileName": "20200312_102125.jpg",
+        "urlPath": "images/atlas/20200312_102125.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "f3b32e75-4667-45b8-951f-d4134570e823": {
+        "fileName": "20200322_025248.jpg",
+        "urlPath": "images/atlas/20200322_025248.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "a70f988a-52e9-49a6-ba6e-f4a1cb47ffe5": {
+        "fileName": "20200322_025303.jpg",
+        "urlPath": "images/atlas/20200322_025303.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "369570c9-7642-4719-8397-7a96d3ad0e3c": {
+        "fileName": "20200322_025307.jpg",
+        "urlPath": "images/atlas/20200322_025307.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "0d8460dd-266d-4c48-99ea-16d659640eca": {
+        "fileName": "20200329_231451.jpg",
+        "urlPath": "images/atlas/20200329_231451.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "e962a9ba-ea7e-43b8-9c29-2cc9d3a7c302": {
+        "fileName": "20200429_133919.jpg",
+        "urlPath": "images/atlas/20200429_133919.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "8cbf4e1e-1e70-4f0c-83c0-9c1089dd95aa": {
+        "fileName": "20200429_133934.jpg",
+        "urlPath": "images/atlas/20200429_133934.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:50-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "d8757ffd-8310-4bc8-b0a0-dac247d2141f": {
+        "fileName": "20200429_133939.jpg",
+        "urlPath": "images/atlas/20200429_133939.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "b3c58896-c4a1-45e2-b731-bff9b0fc87ee": {
+        "fileName": "20200429_133943.jpg",
+        "urlPath": "images/atlas/20200429_133943.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "94b0167d-5584-483e-88ad-9772d9a20c11": {
+        "fileName": "20200601_123208.jpg",
+        "urlPath": "images/atlas/20200601_123208.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "4b21e58a-7870-479b-b426-0dcb22727b13": {
+        "fileName": "20200601_123219.jpg",
+        "urlPath": "images/atlas/20200601_123219.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "a3da1bfb-b0f8-4281-9b4b-db376898eab9": {
+        "fileName": "20200601_123221.jpg",
+        "urlPath": "images/atlas/20200601_123221.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "b3d5bfff-d17d-4db3-b7b4-29e2e684452c": {
+        "fileName": "20200601_123620.jpg",
+        "urlPath": "images/atlas/20200601_123620.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "39a7ec8f-b8f9-4306-b3b9-a57c8595ce07": {
+        "fileName": "20200601_123621.jpg",
+        "urlPath": "images/atlas/20200601_123621.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "cc005ba1-d6df-4019-9749-ad7247ec9bfe": {
+        "fileName": "20200601_123626.jpg",
+        "urlPath": "images/atlas/20200601_123626.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "1d990981-55ba-452e-bb13-95dff0a60dd5": {
+        "fileName": "20200601_123717.jpg",
+        "urlPath": "images/atlas/20200601_123717.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "8187d01f-45c4-4cf6-b3c3-ea7ad2d4654e": {
+        "fileName": "20200601_123723.jpg",
+        "urlPath": "images/atlas/20200601_123723.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "9fbe1671-e1af-432d-8077-7dbaa45a4bef": {
+        "fileName": "20200601_123725.jpg",
+        "urlPath": "images/atlas/20200601_123725.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "e5e9c73f-d178-4cab-a88c-1fb53c7f4266": {
+        "fileName": "20200624_110857.jpg",
+        "urlPath": "images/atlas/20200624_110857.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "f0004487-0cf8-4bf7-b0f1-038a508c99a7": {
+        "fileName": "20200624_203511.jpg",
+        "urlPath": "images/atlas/20200624_203511.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "fa667b72-81d1-47d6-8b98-e0e20d096eb2": {
+        "fileName": "20200625_150142.jpg",
+        "urlPath": "images/atlas/20200625_150142.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "5433f8af-e466-427c-8568-a0da0b999a3d": {
+        "fileName": "20200703_103040.jpg",
+        "urlPath": "images/atlas/20200703_103040.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "3f7b1721-2aca-49d1-9e6c-b1a40310f7b0": {
+        "fileName": "20200703_103047.jpg",
+        "urlPath": "images/atlas/20200703_103047.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "31cee5ee-6f63-4ecf-bfc4-8e3411b1a98a": {
+        "fileName": "20200708_123004.jpg",
+        "urlPath": "images/atlas/20200708_123004.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "77ff7fe0-6da1-437f-aeb3-88bc27d72289": {
+        "fileName": "20200708_123010.jpg",
+        "urlPath": "images/atlas/20200708_123010.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "d8312cde-a86e-4b67-acd2-8afe924c3d51": {
+        "fileName": "20200708_123012.jpg",
+        "urlPath": "images/atlas/20200708_123012.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "ba48aae8-9256-486c-b80a-756472c07eea": {
+        "fileName": "20200708_123018.jpg",
+        "urlPath": "images/atlas/20200708_123018.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "69f8ec21-2b52-4c36-bebf-7687091a7510": {
+        "fileName": "20200708_123022.jpg",
+        "urlPath": "images/atlas/20200708_123022.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "0a3590ed-e5ba-4607-b693-9793264a8e44": {
+        "fileName": "20200708_123031.jpg",
+        "urlPath": "images/atlas/20200708_123031.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "6191c1d4-18fb-42a2-bd31-7b5f66d74e61": {
+        "fileName": "20200708_123045.jpg",
+        "urlPath": "images/atlas/20200708_123045.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "29124be5-84bd-4e84-8d30-4f4abaa0939e": {
+        "fileName": "20200822_141341.jpg",
+        "urlPath": "images/atlas/20200822_141341.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "bebd0f57-49a5-4af8-9053-651871790e85": {
+        "fileName": "20200822_141349.jpg",
+        "urlPath": "images/atlas/20200822_141349.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "2fbc950d-effe-4cb6-b793-36a23a74017b": {
+        "fileName": "20200822_141354.jpg",
+        "urlPath": "images/atlas/20200822_141354.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "0d9da1f3-1a32-4d5c-87ac-72bb957353a6": {
+        "fileName": "20200823_121320.jpg",
+        "urlPath": "images/atlas/20200823_121320.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "bfcd5d51-2d56-424b-81de-dc91441f4ebe": {
+        "fileName": "20200823_121322.jpg",
+        "urlPath": "images/atlas/20200823_121322.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "220e7d0d-b811-411f-9ddd-83fa848bd2bd": {
+        "fileName": "20200823_121329.jpg",
+        "urlPath": "images/atlas/20200823_121329.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "1b224ff0-18d5-4cd2-8380-8e639cbb8d9d": {
+        "fileName": "20200823_214303.jpg",
+        "urlPath": "images/atlas/20200823_214303.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "249843af-89b0-4064-bfe4-19fa5fa3a83d": {
+        "fileName": "20200823_214315.jpg",
+        "urlPath": "images/atlas/20200823_214315.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "58265df9-d451-489e-832e-d780fef0ee45": {
+        "fileName": "20200823_214317.jpg",
+        "urlPath": "images/atlas/20200823_214317.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "4a0e00d9-6387-4465-95d5-35b7a87ac0de": {
+        "fileName": "20200823_214331.jpg",
+        "urlPath": "images/atlas/20200823_214331.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:51-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "9a73d023-35a0-4698-a630-cddfe1b8ffb6": {
+        "fileName": "20200823_214335.jpg",
+        "urlPath": "images/atlas/20200823_214335.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "2128481b-9da2-4557-99e8-15264ec3a4c9": {
+        "fileName": "20200824_155937.jpg",
+        "urlPath": "images/atlas/20200824_155937.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "5d0b440a-9ca1-4b44-acb6-28f9bc971562": {
+        "fileName": "20200824_180901.jpg",
+        "urlPath": "images/atlas/20200824_180901.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "d3b1dfe8-9ee4-4a63-a915-bb9699972f1e": {
+        "fileName": "20200825_092344.jpg",
+        "urlPath": "images/atlas/20200825_092344.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "ee264bb5-2db1-4342-b110-719fb9ec41c0": {
+        "fileName": "20200828_123751.jpg",
+        "urlPath": "images/atlas/20200828_123751.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "e19d6783-b9d8-4b0a-b26e-0ace8a77b421": {
+        "fileName": "20200828_123759.jpg",
+        "urlPath": "images/atlas/20200828_123759.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "f09f4366-379d-4462-99af-cc40f82ac1e1": {
+        "fileName": "20200828_123814.jpg",
+        "urlPath": "images/atlas/20200828_123814.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "652e6f97-3b89-47c0-9f17-ca42386a0f7a": {
+        "fileName": "20200828_123826.jpg",
+        "urlPath": "images/atlas/20200828_123826.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "09b90795-86c9-4c67-8fe8-7e1df105a177": {
+        "fileName": "20200831_213304.jpg",
+        "urlPath": "images/atlas/20200831_213304.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "9d2df671-4621-4b80-a426-fa70b2bee3a3": {
+        "fileName": "20200904_084424.jpg",
+        "urlPath": "images/atlas/20200904_084424.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "9aafc565-3f88-48fc-bc6f-d22f7840c463": {
+        "fileName": "20200904_084444.jpg",
+        "urlPath": "images/atlas/20200904_084444.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "5bcfd222-327c-44d6-835b-38bce8b466b8": {
+        "fileName": "20200918_105330.jpg",
+        "urlPath": "images/atlas/20200918_105330.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "ed62c179-bb5d-492e-ad09-e4375cda1a9c": {
+        "fileName": "20200918_105338.jpg",
+        "urlPath": "images/atlas/20200918_105338.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "c8894e40-666d-4aad-8240-99491bef7c1f": {
+        "fileName": "20200922_093134.jpg",
+        "urlPath": "images/atlas/20200922_093134.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "74a3cecb-c3c3-4468-bbfc-2cdb8d2ec4e0": {
+        "fileName": "20200922_093140.jpg",
+        "urlPath": "images/atlas/20200922_093140.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "c62b3baa-4aa2-4655-9832-83701d5ce570": {
+        "fileName": "20200922_094447.jpg",
+        "urlPath": "images/atlas/20200922_094447.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "641ba13b-ca03-44be-a546-450b0ba7d43a": {
+        "fileName": "20200922_094449.jpg",
+        "urlPath": "images/atlas/20200922_094449.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "4038958e-9ef9-4bf7-abda-5dd16334144e": {
+        "fileName": "20200922_122311.jpg",
+        "urlPath": "images/atlas/20200922_122311.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "5bfa19ce-8386-498c-b274-4f4b070aefcb": {
+        "fileName": "20200925_105542.jpg",
+        "urlPath": "images/atlas/20200925_105542.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "ff6521af-9c13-4ad3-8c55-63e74dcc22ed": {
+        "fileName": "20201029_144201.jpg",
+        "urlPath": "images/atlas/20201029_144201.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "1f5a67fb-be58-49f8-bdc5-c77be905c474": {
+        "fileName": "20201029_144204.jpg",
+        "urlPath": "images/atlas/20201029_144204.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "18969f29-9904-4a25-83b0-6892f01c224c": {
+        "fileName": "20201029_144209.jpg",
+        "urlPath": "images/atlas/20201029_144209.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "c00e29db-2602-4754-8f89-23719a39eb81": {
+        "fileName": "20201102_182222.jpg",
+        "urlPath": "images/atlas/20201102_182222.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "967a5bf1-db93-4a1f-bc3d-559af0a92d05": {
+        "fileName": "20201102_182230.jpg",
+        "urlPath": "images/atlas/20201102_182230.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "da5b398d-2fa3-4cad-a359-04b80f1b554f": {
+        "fileName": "20201103_164610.jpg",
+        "urlPath": "images/atlas/20201103_164610.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "bf93dc07-1e30-4c3b-8c8e-8ac0d9570a9f": {
+        "fileName": "20201103_164616.jpg",
+        "urlPath": "images/atlas/20201103_164616.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "9093ecbd-38b2-47b8-a151-2ce102195c39": {
+        "fileName": "20201103_164619.jpg",
+        "urlPath": "images/atlas/20201103_164619.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "b48fa397-e210-4761-97e0-ddd27d3f5577": {
+        "fileName": "20201103_164622.jpg",
+        "urlPath": "images/atlas/20201103_164622.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "58e2e14e-0606-440e-9abf-1772c653c93c": {
+        "fileName": "20201103_164625.jpg",
+        "urlPath": "images/atlas/20201103_164625.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "f0447335-d775-4a40-b8bc-2d5db0511b63": {
+        "fileName": "20201103_164627.jpg",
+        "urlPath": "images/atlas/20201103_164627.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "3781149a-fd6b-480a-9292-06ff3ad793c3": {
+        "fileName": "20201103_164729.jpg",
+        "urlPath": "images/atlas/20201103_164729.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:52-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "99aa3619-fe86-4bc3-9c06-70c753c9db4a": {
+        "fileName": "20201103_164731.jpg",
+        "urlPath": "images/atlas/20201103_164731.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "851fb313-12b8-410a-93eb-fe1f8713f614": {
+        "fileName": "20201103_164734.jpg",
+        "urlPath": "images/atlas/20201103_164734.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "8698ad3b-112b-43d4-8dd2-5ad8bd386265": {
+        "fileName": "20201103_164825.jpg",
+        "urlPath": "images/atlas/20201103_164825.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "c1b2453d-378d-404b-8b8e-d451f577ba20": {
+        "fileName": "20201103_164837.jpg",
+        "urlPath": "images/atlas/20201103_164837.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "45f1ff12-7e42-41f2-9be0-01d64a155495": {
+        "fileName": "20201103_164840.jpg",
+        "urlPath": "images/atlas/20201103_164840.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "98e88f90-48a2-4776-989e-e96ef5297a8c": {
+        "fileName": "20201103_164842.jpg",
+        "urlPath": "images/atlas/20201103_164842.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "f991294a-84e4-4dc7-9dea-a26d238dc0cf": {
+        "fileName": "20201103_164848.jpg",
+        "urlPath": "images/atlas/20201103_164848.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "4c56d7b1-d9b1-4a0b-9544-789a29b63678": {
+        "fileName": "20201114_151206.jpg",
+        "urlPath": "images/atlas/20201114_151206.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "16417a8d-b560-4d17-b5e3-943b99a0b2e6": {
+        "fileName": "20201114_151208.jpg",
+        "urlPath": "images/atlas/20201114_151208.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "770780fc-1c47-4229-8269-dbb11edc0126": {
+        "fileName": "20201114_151213.jpg",
+        "urlPath": "images/atlas/20201114_151213.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "a915c567-efe0-4091-bcea-729529b2c84d": {
+        "fileName": "20201114_151242.jpg",
+        "urlPath": "images/atlas/20201114_151242.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "7330d0ce-e085-4265-bdeb-9645d7408ce3": {
+        "fileName": "20201114_151333.jpg",
+        "urlPath": "images/atlas/20201114_151333.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "f9678aad-5833-4018-b8fe-e43107283fcc": {
+        "fileName": "20201114_151341.jpg",
+        "urlPath": "images/atlas/20201114_151341.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "e991420d-cba3-41d4-b511-bcfccacc9f5d": {
+        "fileName": "20201114_151357.jpg",
+        "urlPath": "images/atlas/20201114_151357.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "7e8f7e12-a108-423c-92a4-3a94a6646fc2": {
+        "fileName": "20201114_151402.jpg",
+        "urlPath": "images/atlas/20201114_151402.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "a6e1fb41-50bc-44a4-95fd-5c2637251a27": {
+        "fileName": "20201114_151521.jpg",
+        "urlPath": "images/atlas/20201114_151521.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "7302fff0-e83b-41b8-8a52-2e001da9a574": {
+        "fileName": "20201114_151527.jpg",
+        "urlPath": "images/atlas/20201114_151527.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "7078ccf5-40bd-4427-9e76-c35be2c2e299": {
+        "fileName": "20201114_151528.jpg",
+        "urlPath": "images/atlas/20201114_151528.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "33c6e8d2-17b2-4fe8-88d1-d48c139712a9": {
+        "fileName": "20201114_151534.jpg",
+        "urlPath": "images/atlas/20201114_151534.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "432bc10a-05bd-4667-b130-6200c885a7f6": {
+        "fileName": "20201114_151550.jpg",
+        "urlPath": "images/atlas/20201114_151550.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "454aff91-61f1-4baa-9624-9b74ba6e4ccf": {
+        "fileName": "20201114_151552.jpg",
+        "urlPath": "images/atlas/20201114_151552.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "9f9468d8-3e31-482b-ac0c-d5860e382ff8": {
+        "fileName": "20201114_151555.jpg",
+        "urlPath": "images/atlas/20201114_151555.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "f54fa4bf-1e95-4041-9e28-e90c3cd4be85": {
+        "fileName": "20201114_151556.jpg",
+        "urlPath": "images/atlas/20201114_151556.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "847cbbf5-cef8-4e7f-9517-96ed9e46f80f": {
+        "fileName": "20201114_151606.jpg",
+        "urlPath": "images/atlas/20201114_151606.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "aa5be174-ce4e-4c76-836c-78ca93900429": {
+        "fileName": "20201114_151636.jpg",
+        "urlPath": "images/atlas/20201114_151636.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "32fd6d4f-76ea-40f7-b394-be5ed50b0aad": {
+        "fileName": "20201114_151650.jpg",
+        "urlPath": "images/atlas/20201114_151650.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "425f9155-f7e6-4e53-958c-c5c5423cead8": {
+        "fileName": "20201114_151651.jpg",
+        "urlPath": "images/atlas/20201114_151651.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "95b2e535-f092-4a1a-af2b-a331c58db53c": {
+        "fileName": "20201114_151656.jpg",
+        "urlPath": "images/atlas/20201114_151656.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "85635958-5624-4417-8547-8eb0e097c882": {
+        "fileName": "20201114_151726.jpg",
+        "urlPath": "images/atlas/20201114_151726.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "811d463e-5b48-40e8-8063-5c8767d706dc": {
+        "fileName": "20201114_151733.jpg",
+        "urlPath": "images/atlas/20201114_151733.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "2f8c8191-9c7c-4e99-809b-cf9246965e30": {
+        "fileName": "20201114_151735.jpg",
+        "urlPath": "images/atlas/20201114_151735.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "765ecbb2-7f52-482c-8df1-3e6cf76aed66": {
+        "fileName": "20201115_200544.jpg",
+        "urlPath": "images/atlas/20201115_200544.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "1fa9aa62-a33c-494a-b62c-5403664ce444": {
+        "fileName": "20201115_200547.jpg",
+        "urlPath": "images/atlas/20201115_200547.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "39d0fe4e-c4b8-4433-9395-86e08aad82a6": {
+        "fileName": "20201128_182720.jpg",
+        "urlPath": "images/atlas/20201128_182720.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "27ff1d5e-fe79-42cc-a210-58b764547e62": {
+        "fileName": "20201128_182723.jpg",
+        "urlPath": "images/atlas/20201128_182723.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "702b436d-0744-42fc-be7c-a6a594f77c6b": {
+        "fileName": "20201225_103841.jpg",
+        "urlPath": "images/atlas/20201225_103841.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "f4404a7a-5436-4219-b7ff-070e3df0a70e": {
+        "fileName": "20201225_103850.jpg",
+        "urlPath": "images/atlas/20201225_103850.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "9003b858-6953-4152-be64-b61a7eeee1d3": {
+        "fileName": "20201229_120812.jpg",
+        "urlPath": "images/atlas/20201229_120812.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "9e0d7981-7278-4f26-92d5-5048761d5410": {
+        "fileName": "20201229_120820.jpg",
+        "urlPath": "images/atlas/20201229_120820.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "ef8cc359-8b80-4dd9-a856-0bf6ac974a04": {
+        "fileName": "20201229_120847.jpg",
+        "urlPath": "images/atlas/20201229_120847.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "3a93b15e-0a7d-44f9-93f4-13e2c87714cf": {
+        "fileName": "20201229_120852.jpg",
+        "urlPath": "images/atlas/20201229_120852.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "ca1f2075-361e-432e-98cd-bc61537cd3a7": {
+        "fileName": "20201229_120855.jpg",
+        "urlPath": "images/atlas/20201229_120855.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "c6f8623f-4f30-4895-afa0-559e3a9bfd85": {
+        "fileName": "20210105_080714.jpg",
+        "urlPath": "images/atlas/20210105_080714.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "0d356c7e-c9cc-403e-9a69-0610ffb55323": {
+        "fileName": "20210105_080731.jpg",
+        "urlPath": "images/atlas/20210105_080731.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "b63db4d6-ad08-4ae0-94c2-009a106c8d19": {
+        "fileName": "20210105_080734.jpg",
+        "urlPath": "images/atlas/20210105_080734.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "2c46ecba-68c6-42b8-b2dd-cae12771328b": {
+        "fileName": "20210110_140135.jpg",
+        "urlPath": "images/atlas/20210110_140135.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "696b7711-3897-454b-ba5e-6b291223ecf7": {
+        "fileName": "20210110_140138.jpg",
+        "urlPath": "images/atlas/20210110_140138.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "887b60e4-a698-46f0-b07b-03bdc6ff2ed6": {
+        "fileName": "20210125_140118.jpg",
+        "urlPath": "images/atlas/20210125_140118.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "440fe8ce-04df-465d-9d76-881b50d3dc6d": {
+        "fileName": "20210131_111125.jpg",
+        "urlPath": "images/atlas/20210131_111125.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "3e14b1ae-9048-44cd-8acc-47223b22ae51": {
+        "fileName": "20210131_111129.jpg",
+        "urlPath": "images/atlas/20210131_111129.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "3fa6064b-5541-43fd-85f4-7646f33efac6": {
+        "fileName": "20210131_111133.jpg",
+        "urlPath": "images/atlas/20210131_111133.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "d68c7aba-3c48-4966-a769-071ea227578a": {
+        "fileName": "20210215_074430.jpg",
+        "urlPath": "images/atlas/20210215_074430.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "556476e1-96db-4eff-9a78-98fa4903d4cb": {
+        "fileName": "20210215_074724.jpg",
+        "urlPath": "images/atlas/20210215_074724.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "bbe7a8cd-0c60-40aa-aaa1-81407f62c371": {
+        "fileName": "20210215_174840.jpg",
+        "urlPath": "images/atlas/20210215_174840.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "8e4021d8-7576-4aad-93b9-acb61881df00": {
+        "fileName": "20210215_174847.jpg",
+        "urlPath": "images/atlas/20210215_174847.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "6d43829f-5286-44ac-b775-fdbf2d652009": {
+        "fileName": "20210217_131443.jpg",
+        "urlPath": "images/atlas/20210217_131443.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "b639eb7e-c703-4681-9f92-8e509cda561c": {
+        "fileName": "20210222_144013.jpg",
+        "urlPath": "images/atlas/20210222_144013.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "1cda07cb-e8e0-4ed0-93c3-f5bb0bac684d": {
+        "fileName": "20210222_144023.jpg",
+        "urlPath": "images/atlas/20210222_144023.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "36bdc835-e3a9-4d5f-9ca2-7dbeb2c81346": {
+        "fileName": "20210222_144029.jpg",
+        "urlPath": "images/atlas/20210222_144029.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "eb73711e-e602-44a7-9ac9-5477232c948b": {
+        "fileName": "20210222_192021.jpg",
+        "urlPath": "images/atlas/20210222_192021.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "21584eca-1e38-4bff-844c-da57d9d848ce": {
+        "fileName": "20210222_192028.jpg",
+        "urlPath": "images/atlas/20210222_192028.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "e6f1553a-6ef4-4e55-a231-1c6ec629db85": {
+        "fileName": "20210224_154214.jpg",
+        "urlPath": "images/atlas/20210224_154214.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "1e4d62e0-3858-4c06-9f43-92913e86217c": {
+        "fileName": "20210224_154222.jpg",
+        "urlPath": "images/atlas/20210224_154222.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "8ebccfd4-b0a8-4058-b5b8-5d402b45a856": {
+        "fileName": "20210225_095309.jpg",
+        "urlPath": "images/atlas/20210225_095309.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "cd76cd78-b1e9-404d-b38a-ab3c18d7942b": {
+        "fileName": "20210225_095313.jpg",
+        "urlPath": "images/atlas/20210225_095313.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:54-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "f372b719-9b60-4669-b68b-8cf0da0cab13": {
+        "fileName": "20210225_212300.jpg",
+        "urlPath": "images/atlas/20210225_212300.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "ded28dbc-855e-4d0e-9031-2a038b9ef9f6": {
+        "fileName": "20210225_212308.jpg",
+        "urlPath": "images/atlas/20210225_212308.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "a9c08426-f290-4584-acd0-3538880bc35b": {
+        "fileName": "20210225_212312.jpg",
+        "urlPath": "images/atlas/20210225_212312.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "84272edb-6d06-407f-8b2f-578987287d6b": {
+        "fileName": "20210304_095931.jpg",
+        "urlPath": "images/atlas/20210304_095931.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "340fd252-c06c-4db4-8ace-71ccb9143970": {
+        "fileName": "20210304_095936.jpg",
+        "urlPath": "images/atlas/20210304_095936.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "2ddffa96-9faa-4e37-b507-8e1d0553ed99": {
+        "fileName": "20210307_133750.jpg",
+        "urlPath": "images/atlas/20210307_133750.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "401c6094-9320-49db-8845-0d0295f0e981": {
+        "fileName": "20210313_210643.jpg",
+        "urlPath": "images/atlas/20210313_210643.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "80ee7cbd-29d9-431a-84e6-fade30ad2aeb": {
+        "fileName": "20210313_210645.jpg",
+        "urlPath": "images/atlas/20210313_210645.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "99b19d24-fefb-4bcc-a9db-cc4b0513d4e7": {
+        "fileName": "20210313_210650.jpg",
+        "urlPath": "images/atlas/20210313_210650.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "7627ff8f-a011-4c08-abf6-989a3ab47ea7": {
+        "fileName": "20210313_210653.jpg",
+        "urlPath": "images/atlas/20210313_210653.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "a041d3be-1732-4cd1-9bc2-e408d0830042": {
+        "fileName": "20210313_210700.jpg",
+        "urlPath": "images/atlas/20210313_210700.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "fc81fd22-c75d-4fb5-9aaa-b1e1a13f2580": {
+        "fileName": "20210313_220602.jpg",
+        "urlPath": "images/atlas/20210313_220602.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "b74cd25b-e442-40ee-bec9-5d51c2dbc16e": {
+        "fileName": "20210313_220605.jpg",
+        "urlPath": "images/atlas/20210313_220605.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "61e5e679-90c2-4e6b-bd60-cbf55a36a069": {
+        "fileName": "20210322_184741.jpg",
+        "urlPath": "images/atlas/20210322_184741.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "e4c08a3e-5029-4bb4-a467-e66e86fc7b12": {
+        "fileName": "20210322_184826.jpg",
+        "urlPath": "images/atlas/20210322_184826.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "99b78cc7-5054-458c-908d-ac7a9b53f315": {
+        "fileName": "20210322_184834.jpg",
+        "urlPath": "images/atlas/20210322_184834.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "1fe12380-1d49-484c-abfe-eaea0747e0d6": {
+        "fileName": "20210322_184925.jpg",
+        "urlPath": "images/atlas/20210322_184925.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "bc7fb4c2-7472-4e32-8faf-d28a4ce62b39": {
+        "fileName": "20210322_184930.jpg",
+        "urlPath": "images/atlas/20210322_184930.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "74cbaf0f-f73f-46d4-96c7-745707689db8": {
+        "fileName": "20210322_184936.jpg",
+        "urlPath": "images/atlas/20210322_184936.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "0d804584-211c-4956-b97b-7b0ec55715b2": {
+        "fileName": "20210414_115723.jpg",
+        "urlPath": "images/atlas/20210414_115723.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "b35e2221-5a53-461a-8836-6d4db1bb7ce1": {
+        "fileName": "20210414_115725.jpg",
+        "urlPath": "images/atlas/20210414_115725.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "4fd60922-5dfb-43ef-8145-e2415f7cf516": {
+        "fileName": "20210414_115727.jpg",
+        "urlPath": "images/atlas/20210414_115727.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "76032ded-9d1e-48ff-b47b-174ca75f12e7": {
+        "fileName": "20210414_115731.jpg",
+        "urlPath": "images/atlas/20210414_115731.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "2f2a2afe-3601-4fe0-90eb-13157147dcbe": {
+        "fileName": "20210414_115735.jpg",
+        "urlPath": "images/atlas/20210414_115735.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "fc352cdd-2ae0-4ff6-88d2-a2f9f8bfddc2": {
+        "fileName": "20210428_211655.jpg",
+        "urlPath": "images/atlas/20210428_211655.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "851ef6b5-bfe1-453b-a749-a5838abc8357": {
+        "fileName": "20210428_211659.jpg",
+        "urlPath": "images/atlas/20210428_211659.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "7945ec57-f653-4a35-afaf-95044f0780f8": {
+        "fileName": "20210508_164805.jpg",
+        "urlPath": "images/atlas/20210508_164805.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "c61ed3aa-b956-42ba-8238-e1ca99cd40b2": {
+        "fileName": "20210615_014544.jpg",
+        "urlPath": "images/atlas/20210615_014544.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "95d257a1-4ee5-4e37-8456-a4a5be3e84fe": {
+        "fileName": "20210615_014550.jpg",
+        "urlPath": "images/atlas/20210615_014550.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "a3a960cb-1f7c-48c8-b599-ac7cdd8eb407": {
+        "fileName": "20210615_014552.jpg",
+        "urlPath": "images/atlas/20210615_014552.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "82656e65-0a15-4179-9a7b-7fc80f5259bb": {
+        "fileName": "20210625_125447.jpg",
+        "urlPath": "images/atlas/20210625_125447.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "006ff7db-fb13-4b79-a7d5-adb81660a26e": {
+        "fileName": "20210706_143911.jpg",
+        "urlPath": "images/atlas/20210706_143911.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "37231de7-b6ea-45a3-b0e4-f21bf0dc1795": {
+        "fileName": "20210706_143920.jpg",
+        "urlPath": "images/atlas/20210706_143920.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "6cf07081-1dc2-4800-ae6a-cebdde83264c": {
+        "fileName": "20210706_143926.jpg",
+        "urlPath": "images/atlas/20210706_143926.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "3d435526-fe17-4559-a8ec-294abba148d5": {
+        "fileName": "20210706_143954.jpg",
+        "urlPath": "images/atlas/20210706_143954.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "7fb38296-7fe1-41d2-aeb0-7cf8f320fbbb": {
+        "fileName": "20210709_164442.jpg",
+        "urlPath": "images/atlas/20210709_164442.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "d7683aa5-670f-4b38-b55d-960fd6dda4b4": {
+        "fileName": "20210709_164445.jpg",
+        "urlPath": "images/atlas/20210709_164445.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:55-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "1957da85-2352-478d-b7f5-d622bb669d37": {
+        "fileName": "20210709_164450.jpg",
+        "urlPath": "images/atlas/20210709_164450.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "cb4e08dc-a4e4-4714-b2be-fd27c282b983": {
+        "fileName": "20210709_164451.jpg",
+        "urlPath": "images/atlas/20210709_164451.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "bb3e7388-cad0-49e4-82b5-45cd31dde964": {
+        "fileName": "20210709_164453.jpg",
+        "urlPath": "images/atlas/20210709_164453.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "31e8808b-333f-49e5-abd5-bb233a677f1f": {
+        "fileName": "20210709_164455.jpg",
+        "urlPath": "images/atlas/20210709_164455.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "465899d3-c74e-4648-a8ff-cf7de683fee4": {
+        "fileName": "20210709_164501.jpg",
+        "urlPath": "images/atlas/20210709_164501.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "7366d85f-8617-45ea-8e60-b5031e04ba11": {
+        "fileName": "20210709_164503.jpg",
+        "urlPath": "images/atlas/20210709_164503.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 3024
+    },
+    "9f3ecca5-40a2-4b13-98bf-3343ca33019e": {
+        "fileName": "20220930_234043.jpg",
+        "urlPath": "images/atlas/20220930_234043.jpg",
+        "dogName": "atlas",
+        "gpsLatitude": 40.691333,
+        "gpsLongitude": 80.128731,
+        "fileCreationDate": "2022:10:04 23:49:53-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
+    },
+    "417180df-e1a7-4287-8e9d-3535973aefff": {
+        "fileName": "IMG_0027.JPG",
+        "urlPath": "images/atlas/IMG_0027.JPG",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 6000,
+        "imageHeight": 4000
+    },
+    "c17dba97-751b-4225-8e4e-57747957aa27": {
+        "fileName": "IMG_0028.JPG",
+        "urlPath": "images/atlas/IMG_0028.JPG",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 6000,
+        "imageHeight": 4000
+    },
+    "fb1ffc84-fbc7-440a-9071-b38a1b471371": {
+        "fileName": "IMG_0046.JPG",
+        "urlPath": "images/atlas/IMG_0046.JPG",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 6000,
+        "imageHeight": 4000
+    },
+    "9e0cd231-88a7-4df4-8b3e-01768ca1be4e": {
+        "fileName": "IMG_0050.JPG",
+        "urlPath": "images/atlas/IMG_0050.JPG",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 6000,
+        "imageHeight": 4000
+    },
+    "fc6d5634-1a90-40a7-a22e-2a72d5111656": {
+        "fileName": "IMG_0055.JPG",
+        "urlPath": "images/atlas/IMG_0055.JPG",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 6000,
+        "imageHeight": 4000
+    },
+    "732f58f9-e0ee-4a39-88a5-4b5d5da281e1": {
+        "fileName": "IMG_0056.JPG",
+        "urlPath": "images/atlas/IMG_0056.JPG",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 6000,
+        "imageHeight": 4000
+    },
+    "f233fdda-14c0-4c1d-9a8e-0eeadf210af5": {
+        "fileName": "IMG_0075.JPG",
+        "urlPath": "images/atlas/IMG_0075.JPG",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 6000,
+        "imageHeight": 4000
+    },
+    "f6375469-0dab-4591-b05d-a4e259f712b5": {
+        "fileName": "IMG_0079.JPG",
+        "urlPath": "images/atlas/IMG_0079.JPG",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 6000,
+        "imageHeight": 4000
+    },
+    "6500c817-b735-44ed-8b7d-e425c19ffb56": {
+        "fileName": "IMG_0080.JPG",
+        "urlPath": "images/atlas/IMG_0080.JPG",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 6000,
+        "imageHeight": 4000
+    },
+    "f82e2938-db1b-4575-ac7b-1655cfad702b": {
+        "fileName": "IMG_0081.JPG",
+        "urlPath": "images/atlas/IMG_0081.JPG",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 6000,
+        "imageHeight": 4000
+    },
+    "8fc93a99-b3f2-4794-9080-f5e3146f13f7": {
+        "fileName": "IMG_0082-2.jpg",
+        "urlPath": "images/atlas/IMG_0082-2.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 3014,
+        "imageHeight": 4000
+    },
+    "afccac3f-be4c-4f99-aa2d-bf664e7b2b7c": {
+        "fileName": "IMG_0082.JPG",
+        "urlPath": "images/atlas/IMG_0082.JPG",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 6000,
+        "imageHeight": 4000
+    },
+    "6929180b-3876-4928-8541-e36037413a6a": {
+        "fileName": "IMG_0083.JPG",
+        "urlPath": "images/atlas/IMG_0083.JPG",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 6000,
+        "imageHeight": 4000
+    },
+    "47dcc7e7-a000-4b3c-867e-91b9e7b038b3": {
+        "fileName": "IMG_0869_20200819_131821.jpg",
+        "urlPath": "images/atlas/IMG_0869_20200819_131821.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 768,
+        "imageHeight": 1024
+    },
+    "7ad41a48-4898-4e21-9977-be70d7449c31": {
+        "fileName": "IMG_20200828_124050_382.jpg",
+        "urlPath": "images/atlas/IMG_20200828_124050_382.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 2268,
+        "imageHeight": 2268
+    },
+    "ab4075e8-12b9-43b3-a1d5-ffae29d15bc9": {
+        "fileName": "IMG_20200831_213433_133.jpg",
+        "urlPath": "images/atlas/IMG_20200831_213433_133.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 1839,
+        "imageHeight": 1839
+    },
+    "472c94b4-923b-464c-a5cb-589de2d249bc": {
+        "fileName": "IMG_20200904_084509_787.jpg",
+        "urlPath": "images/atlas/IMG_20200904_084509_787.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 2268,
+        "imageHeight": 2268
+    },
+    "71ff0896-1320-4900-be2d-b4a9cc12aef2": {
+        "fileName": "Snapchat-1263682637.jpg",
+        "urlPath": "images/atlas/Snapchat-1263682637.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 1386,
+        "imageHeight": 2688
+    },
+    "e5cd219b-ee55-4cff-a2d1-007621f8dcf3": {
+        "fileName": "Snapchat-1607813777.jpg",
+        "urlPath": "images/atlas/Snapchat-1607813777.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 1960,
+        "imageHeight": 3800
+    },
+    "374dfce3-561b-48cc-92f4-81eaae471b87": {
+        "fileName": "Snapchat-1927595250.jpg",
+        "urlPath": "images/atlas/Snapchat-1927595250.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 1981,
+        "imageHeight": 3840
+    },
+    "0c924a16-14e4-4cf8-a1ef-c71dd4d76f89": {
+        "fileName": "Snapchat-1960924191.jpg",
+        "urlPath": "images/atlas/Snapchat-1960924191.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 1981,
+        "imageHeight": 3840
+    },
+    "8d32925a-bee8-4a43-af90-71b582599f1c": {
+        "fileName": "Snapchat-2140357854.jpg",
+        "urlPath": "images/atlas/Snapchat-2140357854.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 1981,
+        "imageHeight": 3840
+    },
+    "4026f765-bd42-4cec-b210-5b6b80ac346a": {
+        "fileName": "Snapchat-443415997.jpg",
+        "urlPath": "images/atlas/Snapchat-443415997.jpg",
+        "dogName": "atlas",
+        "fileCreationDate": "2022:10:04 14:17:56-04:00",
+        "imageWidth": 1386,
+        "imageHeight": 2688
+    },
+    "8e690172-9960-4e6a-adeb-a87361ba6af5": {
         "fileName": "20220802_085043.jpg",
         "urlPath": "images/joey/20220802_085043.jpg",
-        "dogName": "Joey"
+        "dogName": "joey",
+        "fileCreationDate": "2022:10:04 12:18:18-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
     },
-    "2": {
+    "98aab3ca-2e8a-4352-aa86-436866034d0a": {
         "fileName": "20220802_085847.jpg",
         "urlPath": "images/joey/20220802_085847.jpg",
-        "dogName": "Joey"
+        "dogName": "joey",
+        "fileCreationDate": "2022:10:04 12:18:18-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
     },
-    "3": {
+    "d5431ef2-6a17-40ea-ae48-da170d62b7a1": {
         "fileName": "20220804_143417.jpg",
         "urlPath": "images/joey/20220804_143417.jpg",
-        "dogName": "Joey"
+        "dogName": "joey",
+        "fileCreationDate": "2022:10:04 12:18:18-04:00",
+        "imageWidth": 2640,
+        "imageHeight": 1488
     },
-    "4": {
+    "b43eba4f-d062-48d8-894f-67ec9d1f0d4c": {
         "fileName": "20220804_143432.jpg",
         "urlPath": "images/joey/20220804_143432.jpg",
-        "dogName": "Joey"
+        "dogName": "joey",
+        "fileCreationDate": "2022:10:04 12:18:18-04:00",
+        "imageWidth": 2640,
+        "imageHeight": 1488
     },
-    "5": {
+    "2a1333e0-aad9-4cd7-a3df-7b7a6b645704": {
         "fileName": "20220820_173823.jpg",
         "urlPath": "images/joey/20220820_173823.jpg",
-        "dogName": "Joey"
+        "dogName": "joey",
+        "fileCreationDate": "2022:10:04 12:18:18-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
     },
-    "6": {
+    "ecace936-3680-4f5b-9b6b-c69e47bae184": {
         "fileName": "20220825_201434.jpg",
         "urlPath": "images/joey/20220825_201434.jpg",
-        "dogName": "Joey"
+        "dogName": "joey",
+        "fileCreationDate": "2022:10:04 12:18:18-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
     },
-    "7": {
+    "f6e53db1-b228-4105-a617-6ef81fe634e8": {
         "fileName": "20220830_193832.jpg",
         "urlPath": "images/joey/20220830_193832.jpg",
-        "dogName": "Joey"
+        "dogName": "joey",
+        "fileCreationDate": "2022:10:04 12:18:18-04:00",
+        "imageWidth": 2640,
+        "imageHeight": 1980
     },
-    "8": {
+    "7537c132-1eeb-488a-9739-c310d0510625": {
         "fileName": "20220909_103712.jpg",
         "urlPath": "images/joey/20220909_103712.jpg",
-        "dogName": "Joey"
+        "dogName": "joey",
+        "fileCreationDate": "2022:10:04 12:18:18-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
     },
-    "9": {
+    "66ff3781-2084-4d95-961c-ad82db456fd0": {
         "fileName": "20220913_092929.jpg",
         "urlPath": "images/joey/20220913_092929.jpg",
-        "dogName": "Joey"
+        "dogName": "joey",
+        "fileCreationDate": "2022:10:04 12:18:18-04:00",
+        "imageWidth": 4032,
+        "imageHeight": 2268
     }
 }
